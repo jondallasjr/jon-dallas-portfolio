@@ -8,7 +8,7 @@ export const Projects = () => {
     {
       title: "AI-Powered Resume Rewriter",
       description:
-        "Developed a custom AI tool that reduces resume rewrite costs by 87% using OpenAI's GPT-4 and advanced prompt engineering.",
+        "Developed a custom AI tool that reduces resume rewrite costs by 87% using OpenAI&apos;s GPT-4 and advanced prompt engineering.",
       technologies: ["OpenAI API", "Coda.io", "React"],
     },
     {
@@ -29,7 +29,7 @@ export const Projects = () => {
     <Card>
       <h3 className="heading">Projects</h3>
       <p className="body-text mb-6">
-        Here are some of the projects I've worked on, showcasing my expertise in AI integration, low-code development, and process optimization.
+        Here are some of the projects I&apos;ve worked on, showcasing my expertise in AI integration, low-code development, and process optimization.
       </p>
 
       {/* Project List */}
